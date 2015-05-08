@@ -1,0 +1,31 @@
+{
+	"name": "GPSSatellites",
+	"object_id": 1480065084,
+	fields: [
+	  {
+  "name": "Azimuth",
+  "type": 1,
+  "numElements": 16
+},
+{
+  "name": "SatsInView",
+  "type": 0,
+  "numElements": 1
+},
+{
+  "name": "PRN",
+  "type": 0,
+  "numElements": 16
+},
+{
+  "name": "Elevation",
+  "type": 0,
+  "numElements": 16
+},
+{
+  "name": "SNR",
+  "type": 0,
+  "numElements": 16
+}
+	]
+}

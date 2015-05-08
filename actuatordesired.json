@@ -1,0 +1,36 @@
+{
+	"name": "ActuatorDesired",
+	"object_id": -354001880,
+	fields: [
+	  {
+  "name": "Roll",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Pitch",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Yaw",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Thrust",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "UpdateTime",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "NumLongUpdates",
+  "type": 6,
+  "numElements": 1
+}
+	]
+}

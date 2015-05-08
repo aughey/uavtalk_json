@@ -1,0 +1,11 @@
+{
+	"name": "FaultSettings",
+	"object_id": 662223420,
+	fields: [
+	  {
+  "name": "ActivateFault",
+  "type": 7,
+  "numElements": 1
+}
+	]
+}

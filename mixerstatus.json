@@ -1,0 +1,66 @@
+{
+	"name": "MixerStatus",
+	"object_id": 894177088,
+	fields: [
+	  {
+  "name": "Mixer1",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Mixer2",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Mixer3",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Mixer4",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Mixer5",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Mixer6",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Mixer7",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Mixer8",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Mixer9",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Mixer10",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Mixer11",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Mixer12",
+  "type": 6,
+  "numElements": 1
+}
+	]
+}

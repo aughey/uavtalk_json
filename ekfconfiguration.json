@@ -1,0 +1,26 @@
+{
+	"name": "EKFConfiguration",
+	"object_id": 1586569532,
+	fields: [
+	  {
+  "name": "P",
+  "type": 6,
+  "numElements": 13
+},
+{
+  "name": "Q",
+  "type": 6,
+  "numElements": 9
+},
+{
+  "name": "R",
+  "type": 6,
+  "numElements": 10
+},
+{
+  "name": "FakeR",
+  "type": 6,
+  "numElements": 3
+}
+	]
+}

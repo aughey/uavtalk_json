@@ -1,0 +1,31 @@
+{
+	"name": "FlightPlanStatus",
+	"object_id": 570879558,
+	fields: [
+	  {
+  "name": "ErrorFileID",
+  "type": 5,
+  "numElements": 1
+},
+{
+  "name": "ErrorLineNum",
+  "type": 5,
+  "numElements": 1
+},
+{
+  "name": "Debug",
+  "type": 6,
+  "numElements": 2
+},
+{
+  "name": "Status",
+  "type": 7,
+  "numElements": 1
+},
+{
+  "name": "ErrorType",
+  "type": 7,
+  "numElements": 1
+}
+	]
+}

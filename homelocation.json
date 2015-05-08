@@ -1,0 +1,36 @@
+{
+	"name": "HomeLocation",
+	"object_id": 1636162670,
+	fields: [
+	  {
+  "name": "Latitude",
+  "type": 2,
+  "numElements": 1
+},
+{
+  "name": "Longitude",
+  "type": 2,
+  "numElements": 1
+},
+{
+  "name": "Altitude",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Be",
+  "type": 6,
+  "numElements": 3
+},
+{
+  "name": "g_e",
+  "type": 6,
+  "numElements": 1
+},
+{
+  "name": "Set",
+  "type": 7,
+  "numElements": 1
+}
+	]
+}

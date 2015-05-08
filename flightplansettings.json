@@ -1,0 +1,11 @@
+{
+	"name": "FlightPlanSettings",
+	"object_id": -1830158474,
+	fields: [
+	  {
+  "name": "Test",
+  "type": 6,
+  "numElements": 1
+}
+	]
+}

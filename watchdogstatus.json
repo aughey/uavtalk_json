@@ -1,0 +1,16 @@
+{
+	"name": "WatchdogStatus",
+	"object_id": -1576535428,
+	fields: [
+	  {
+  "name": "BootupFlags",
+  "type": 4,
+  "numElements": 1
+},
+{
+  "name": "ActiveFlags",
+  "type": 4,
+  "numElements": 1
+}
+	]
+}

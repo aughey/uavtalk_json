@@ -1,0 +1,11 @@
+{
+	"name": "AccessoryDesired",
+	"object_id": -1006004134,
+	fields: [
+	  {
+  "name": "AccessoryVal",
+  "type": 6,
+  "numElements": 1
+}
+	]
+}

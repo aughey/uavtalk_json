@@ -1,0 +1,36 @@
+{
+	"name": "GPSExtendedStatus",
+	"object_id": -340768900,
+	fields: [
+	  {
+  "name": "FlightTime",
+  "type": 5,
+  "numElements": 1
+},
+{
+  "name": "Options",
+  "type": 4,
+  "numElements": 1
+},
+{
+  "name": "Status",
+  "type": 7,
+  "numElements": 1
+},
+{
+  "name": "BoardType",
+  "type": 3,
+  "numElements": 2
+},
+{
+  "name": "FirmwareHash",
+  "type": 3,
+  "numElements": 8
+},
+{
+  "name": "FirmwareTag",
+  "type": 3,
+  "numElements": 26
+}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "ReceiverActivity",
+	"object_id": -11333596,
+	fields: [
+	  {
+  "name": "ActiveGroup",
+  "type": 7,
+  "numElements": 1
+},
+{
+  "name": "ActiveChannel",
+  "type": 3,
+  "numElements": 1
+}
+	]
+}

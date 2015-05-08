@@ -1,0 +1,11 @@
+{
+	"name": "GCSReceiver",
+	"object_id": -864152464,
+	fields: [
+	  {
+  "name": "Channel",
+  "type": 4,
+  "numElements": 8
+}
+	]
+}
