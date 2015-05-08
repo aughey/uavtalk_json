@@ -1,7 +1,7 @@
 {
 	"name": "FirmwareIAPObj",
 	"object_id": -2094468526,
-	fields: [
+	"fields": [
 	  {
   "name": "crc",
   "type": 5,

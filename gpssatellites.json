@@ -1,7 +1,7 @@
 {
 	"name": "GPSSatellites",
 	"object_id": 1480065084,
-	fields: [
+	"fields": [
 	  {
   "name": "Azimuth",
   "type": 1,

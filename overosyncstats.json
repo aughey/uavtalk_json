@@ -1,7 +1,7 @@
 {
 	"name": "OveroSyncStats",
 	"object_id": -771203156,
-	fields: [
+	"fields": [
 	  {
   "name": "Send",
   "type": 5,

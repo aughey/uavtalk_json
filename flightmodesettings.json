@@ -1,7 +1,7 @@
 {
 	"name": "FlightModeSettings",
 	"object_id": -1134894724,
-	fields: [
+	"fields": [
 	  {
   "name": "ReturnToBaseAltitudeOffset",
   "type": 6,

@@ -1,7 +1,7 @@
 {
 	"name": "PositionState",
 	"object_id": 1258141272,
-	fields: [
+	"fields": [
 	  {
   "name": "North",
   "type": 6,

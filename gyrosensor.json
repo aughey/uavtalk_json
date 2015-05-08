@@ -1,7 +1,7 @@
 {
 	"name": "GyroSensor",
 	"object_id": -1506377530,
-	fields: [
+	"fields": [
 	  {
   "name": "x",
   "type": 6,

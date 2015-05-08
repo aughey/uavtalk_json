@@ -1,7 +1,7 @@
 {
 	"name": "ObjectPersistence",
 	"object_id": -1715064174,
-	fields: [
+	"fields": [
 	  {
   "name": "ObjectID",
   "type": 5,

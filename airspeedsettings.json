@@ -1,7 +1,7 @@
 {
 	"name": "AirspeedSettings",
 	"object_id": 1777642874,
-	fields: [
+	"fields": [
 	  {
   "name": "Scale",
   "type": 6,

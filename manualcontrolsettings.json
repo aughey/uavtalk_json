@@ -1,7 +1,7 @@
 {
 	"name": "ManualControlSettings",
 	"object_id": 679485200,
-	fields: [
+	"fields": [
 	  {
   "name": "Deadband",
   "type": 6,

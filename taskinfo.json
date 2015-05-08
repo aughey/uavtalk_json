@@ -1,7 +1,7 @@
 {
 	"name": "TaskInfo",
 	"object_id": 2049486824,
-	fields: [
+	"fields": [
 	  {
   "name": "StackRemaining",
   "type": 4,

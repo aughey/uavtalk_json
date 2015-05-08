@@ -1,7 +1,7 @@
 {
 	"name": "DebugLogSettings",
 	"object_id": 1582891980,
-	fields: [
+	"fields": [
 	  {
   "name": "LoggingEnabled",
   "type": 7,

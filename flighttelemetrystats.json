@@ -1,7 +1,7 @@
 {
 	"name": "FlightTelemetryStats",
 	"object_id": 1731705690,
-	fields: [
+	"fields": [
 	  {
   "name": "TxDataRate",
   "type": 6,

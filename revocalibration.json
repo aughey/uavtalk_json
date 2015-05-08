@@ -1,7 +1,7 @@
 {
 	"name": "RevoCalibration",
 	"object_id": -1553780670,
-	fields: [
+	"fields": [
 	  {
   "name": "mag_bias",
   "type": 6,

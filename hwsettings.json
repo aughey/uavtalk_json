@@ -1,7 +1,7 @@
 {
 	"name": "HwSettings",
 	"object_id": -1503896368,
-	fields: [
+	"fields": [
 	  {
   "name": "CC_RcvrPort",
   "type": 7,

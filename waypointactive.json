@@ -1,7 +1,7 @@
 {
 	"name": "WaypointActive",
 	"object_id": 514175388,
-	fields: [
+	"fields": [
 	  {
   "name": "Index",
   "type": 1,

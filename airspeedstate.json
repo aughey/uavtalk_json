@@ -1,7 +1,7 @@
 {
 	"name": "AirspeedState",
 	"object_id": -956260568,
-	fields: [
+	"fields": [
 	  {
   "name": "CalibratedAirspeed",
   "type": 6,

@@ -1,7 +1,7 @@
 {
 	"name": "SystemSettings",
 	"object_id": -640642120,
-	fields: [
+	"fields": [
 	  {
   "name": "GUIConfigData",
   "type": 5,

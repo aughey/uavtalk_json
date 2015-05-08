@@ -1,7 +1,7 @@
 {
 	"name": "SonarAltitude",
 	"object_id": 1817840828,
-	fields: [
+	"fields": [
 	  {
   "name": "Altitude",
   "type": 6,

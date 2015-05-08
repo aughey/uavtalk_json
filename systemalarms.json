@@ -1,7 +1,7 @@
 {
 	"name": "SystemAlarms",
 	"object_id": 1802910188,
-	fields: [
+	"fields": [
 	  {
   "name": "Alarm",
   "type": 7,

@@ -1,7 +1,7 @@
 {
 	"name": "AltitudeHoldSettings",
 	"object_id": -241238996,
-	fields: [
+	"fields": [
 	  {
   "name": "AltitudePI",
   "type": 6,

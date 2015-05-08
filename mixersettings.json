@@ -1,7 +1,7 @@
 {
 	"name": "MixerSettings",
 	"object_id": 2079510440,
-	fields: [
+	"fields": [
 	  {
   "name": "MaxAccel",
   "type": 6,

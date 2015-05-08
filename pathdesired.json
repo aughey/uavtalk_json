@@ -1,7 +1,7 @@
 {
 	"name": "PathDesired",
 	"object_id": 853399890,
-	fields: [
+	"fields": [
 	  {
   "name": "Start",
   "type": 6,

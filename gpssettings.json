@@ -1,7 +1,7 @@
 {
 	"name": "GPSSettings",
 	"object_id": -589410704,
-	fields: [
+	"fields": [
 	  {
   "name": "MaxPDOP",
   "type": 6,

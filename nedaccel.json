@@ -1,7 +1,7 @@
 {
 	"name": "NedAccel",
 	"object_id": 2088721344,
-	fields: [
+	"fields": [
 	  {
   "name": "North",
   "type": 6,

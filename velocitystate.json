@@ -1,7 +1,7 @@
 {
 	"name": "VelocityState",
 	"object_id": -1035769748,
-	fields: [
+	"fields": [
 	  {
   "name": "North",
   "type": 6,

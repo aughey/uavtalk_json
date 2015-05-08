@@ -1,7 +1,7 @@
 {
 	"name": "FlightPlanSettings",
 	"object_id": -1830158474,
-	fields: [
+	"fields": [
 	  {
   "name": "Test",
   "type": 6,

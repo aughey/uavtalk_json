@@ -1,7 +1,7 @@
 {
 	"name": "FixedWingPathFollowerStatus",
 	"object_id": 904726664,
-	fields: [
+	"fields": [
 	  {
   "name": "Error",
   "type": 6,

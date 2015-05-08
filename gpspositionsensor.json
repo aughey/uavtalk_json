@@ -1,7 +1,7 @@
 {
 	"name": "GPSPositionSensor",
 	"object_id": 2099685094,
-	fields: [
+	"fields": [
 	  {
   "name": "Latitude",
   "type": 2,

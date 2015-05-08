@@ -1,7 +1,7 @@
 {
 	"name": "EKFStateVariance",
 	"object_id": 515081700,
-	fields: [
+	"fields": [
 	  {
   "name": "P",
   "type": 6,

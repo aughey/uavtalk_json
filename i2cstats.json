@@ -1,7 +1,7 @@
 {
 	"name": "I2CStats",
 	"object_id": -1223392706,
-	fields: [
+	"fields": [
 	  {
   "name": "evirq_log",
   "type": 5,

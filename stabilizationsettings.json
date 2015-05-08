@@ -1,7 +1,7 @@
 {
 	"name": "StabilizationSettings",
 	"object_id": 1935683968,
-	fields: [
+	"fields": [
 	  {
   "name": "VbarSensitivity",
   "type": 6,

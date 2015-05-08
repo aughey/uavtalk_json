@@ -1,7 +1,7 @@
 {
 	"name": "PathStatus",
 	"object_id": 1707110064,
-	fields: [
+	"fields": [
 	  {
   "name": "fractional_progress",
   "type": 6,

@@ -1,7 +1,7 @@
 {
 	"name": "RadioComBridgeStats",
 	"object_id": 614051416,
-	fields: [
+	"fields": [
 	  {
   "name": "TelemetryTxBytes",
   "type": 5,

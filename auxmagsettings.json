@@ -1,7 +1,7 @@
 {
 	"name": "AuxMagSettings",
 	"object_id": 70207018,
-	fields: [
+	"fields": [
 	  {
   "name": "mag_bias",
   "type": 6,

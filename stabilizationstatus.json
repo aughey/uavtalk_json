@@ -1,7 +1,7 @@
 {
 	"name": "StabilizationStatus",
 	"object_id": 954906258,
-	fields: [
+	"fields": [
 	  {
   "name": "OuterLoop",
   "type": 7,

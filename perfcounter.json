@@ -1,7 +1,7 @@
 {
 	"name": "PerfCounter",
 	"object_id": 1764736890,
-	fields: [
+	"fields": [
 	  {
   "name": "Id",
   "type": 5,

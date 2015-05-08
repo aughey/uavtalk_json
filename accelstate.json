@@ -1,7 +1,7 @@
 {
 	"name": "AccelState",
 	"object_id": -1388573178,
-	fields: [
+	"fields": [
 	  {
   "name": "x",
   "type": 6,

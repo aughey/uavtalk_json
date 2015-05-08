@@ -1,7 +1,7 @@
 {
 	"name": "ActuatorSettings",
 	"object_id": -760389470,
-	fields: [
+	"fields": [
 	  {
   "name": "BankUpdateFreq",
   "type": 4,

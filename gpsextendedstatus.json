@@ -1,7 +1,7 @@
 {
 	"name": "GPSExtendedStatus",
 	"object_id": -340768900,
-	fields: [
+	"fields": [
 	  {
   "name": "FlightTime",
   "type": 5,

@@ -1,7 +1,7 @@
 {
 	"name": "EKFConfiguration",
 	"object_id": 1586569532,
-	fields: [
+	"fields": [
 	  {
   "name": "P",
   "type": 6,

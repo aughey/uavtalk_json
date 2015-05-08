@@ -1,7 +1,7 @@
 {
 	"name": "AltitudeFilterSettings",
 	"object_id": -435092436,
-	fields: [
+	"fields": [
 	  {
   "name": "AccelLowPassKp",
   "type": 6,

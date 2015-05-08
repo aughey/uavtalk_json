@@ -1,7 +1,7 @@
 {
 	"name": "AltitudeHoldStatus",
 	"object_id": -1750085946,
-	fields: [
+	"fields": [
 	  {
   "name": "VelocityDesired",
   "type": 6,

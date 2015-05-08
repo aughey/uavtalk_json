@@ -1,7 +1,7 @@
 {
 	"name": "PoiLocation",
 	"object_id": 401091000,
-	fields: [
+	"fields": [
 	  {
   "name": "North",
   "type": 6,

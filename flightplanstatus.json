@@ -1,7 +1,7 @@
 {
 	"name": "FlightPlanStatus",
 	"object_id": 570879558,
-	fields: [
+	"fields": [
 	  {
   "name": "ErrorFileID",
   "type": 5,

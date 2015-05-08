@@ -1,7 +1,7 @@
 {
 	"name": "GPSVelocitySensor",
 	"object_id": 197489748,
-	fields: [
+	"fields": [
 	  {
   "name": "North",
   "type": 6,

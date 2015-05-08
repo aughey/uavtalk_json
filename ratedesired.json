@@ -1,7 +1,7 @@
 {
 	"name": "RateDesired",
 	"object_id": 910324286,
-	fields: [
+	"fields": [
 	  {
   "name": "Roll",
   "type": 6,

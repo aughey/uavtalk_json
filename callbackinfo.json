@@ -1,7 +1,7 @@
 {
 	"name": "CallbackInfo",
 	"object_id": -1182480500,
-	fields: [
+	"fields": [
 	  {
   "name": "RunningTime",
   "type": 5,

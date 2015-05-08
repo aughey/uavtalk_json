@@ -1,7 +1,7 @@
 {
 	"name": "FlightBatteryState",
 	"object_id": 647373650,
-	fields: [
+	"fields": [
 	  {
   "name": "Voltage",
   "type": 6,

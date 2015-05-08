@@ -1,7 +1,7 @@
 {
 	"name": "GCSTelemetryStats",
 	"object_id": -892216310,
-	fields: [
+	"fields": [
 	  {
   "name": "TxDataRate",
   "type": 6,

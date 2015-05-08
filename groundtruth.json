@@ -1,7 +1,7 @@
 {
 	"name": "GroundTruth",
 	"object_id": -243737432,
-	fields: [
+	"fields": [
 	  {
   "name": "AccelerationXYZ",
   "type": 6,

@@ -1,7 +1,7 @@
 {
 	"name": "FlightStatus",
 	"object_id": -1971262894,
-	fields: [
+	"fields": [
 	  {
   "name": "Armed",
   "type": 7,

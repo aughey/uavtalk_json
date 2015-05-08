@@ -1,7 +1,7 @@
 {
 	"name": "AirspeedSensor",
 	"object_id": 1133338522,
-	fields: [
+	"fields": [
 	  {
   "name": "DifferentialPressure",
   "type": 6,

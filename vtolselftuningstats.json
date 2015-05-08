@@ -1,7 +1,7 @@
 {
 	"name": "VtolSelfTuningStats",
 	"object_id": 453712692,
-	fields: [
+	"fields": [
 	  {
   "name": "NeutralThrustOffset",
   "type": 6,

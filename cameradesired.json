@@ -1,7 +1,7 @@
 {
 	"name": "CameraDesired",
 	"object_id": 1681920078,
-	fields: [
+	"fields": [
 	  {
   "name": "RollOrServo1",
   "type": 6,

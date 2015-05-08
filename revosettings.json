@@ -1,7 +1,7 @@
 {
 	"name": "RevoSettings",
 	"object_id": -1000936550,
-	fields: [
+	"fields": [
 	  {
   "name": "BaroGPSOffsetCorrectionAlpha",
   "type": 6,

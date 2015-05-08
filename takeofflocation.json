@@ -1,7 +1,7 @@
 {
 	"name": "TakeOffLocation",
 	"object_id": -762118708,
-	fields: [
+	"fields": [
 	  {
   "name": "North",
   "type": 6,

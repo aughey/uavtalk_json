@@ -1,7 +1,7 @@
 {
 	"name": "SystemStats",
 	"object_id": 1086324476,
-	fields: [
+	"fields": [
 	  {
   "name": "FlightTime",
   "type": 5,

@@ -1,7 +1,7 @@
 {
 	"name": "TxPIDSettings",
 	"object_id": -2055515662,
-	fields: [
+	"fields": [
 	  {
   "name": "ThrottleRange",
   "type": 6,

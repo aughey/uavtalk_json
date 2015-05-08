@@ -1,7 +1,7 @@
 {
 	"name": "MixerStatus",
 	"object_id": 894177088,
-	fields: [
+	"fields": [
 	  {
   "name": "Mixer1",
   "type": 6,

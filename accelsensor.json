@@ -1,7 +1,7 @@
 {
 	"name": "AccelSensor",
 	"object_id": -1954824266,
-	fields: [
+	"fields": [
 	  {
   "name": "x",
   "type": 6,

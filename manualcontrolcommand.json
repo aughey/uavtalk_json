@@ -1,7 +1,7 @@
 {
 	"name": "ManualControlCommand",
 	"object_id": 370814104,
-	fields: [
+	"fields": [
 	  {
   "name": "Throttle",
   "type": 6,

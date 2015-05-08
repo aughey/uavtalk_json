@@ -1,7 +1,7 @@
 {
 	"name": "OveroSyncSettings",
 	"object_id": -1582579080,
-	fields: [
+	"fields": [
 	  {
   "name": "LogOn",
   "type": 7,

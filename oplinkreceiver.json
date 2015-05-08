@@ -1,7 +1,7 @@
 {
 	"name": "OPLinkReceiver",
 	"object_id": 220843228,
-	fields: [
+	"fields": [
 	  {
   "name": "Channel",
   "type": 1,

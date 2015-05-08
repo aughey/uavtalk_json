@@ -1,7 +1,7 @@
 {
 	"name": "OPLinkStatus",
 	"object_id": -1314304480,
-	fields: [
+	"fields": [
 	  {
   "name": "DeviceID",
   "type": 5,

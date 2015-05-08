@@ -1,7 +1,7 @@
 {
 	"name": "AccelGyroSettings",
 	"object_id": 308458192,
-	fields: [
+	"fields": [
 	  {
   "name": "accel_bias",
   "type": 6,

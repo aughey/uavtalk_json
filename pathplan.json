@@ -1,7 +1,7 @@
 {
 	"name": "PathPlan",
 	"object_id": -2097818368,
-	fields: [
+	"fields": [
 	  {
   "name": "WaypointCount",
   "type": 4,

@@ -1,7 +1,7 @@
 {
 	"name": "VtolPathFollowerSettings",
 	"object_id": 935366914,
-	fields: [
+	"fields": [
 	  {
   "name": "HorizontalVelMax",
   "type": 6,

@@ -1,7 +1,7 @@
 {
 	"name": "FixedWingPathFollowerSettings",
 	"object_id": 950897418,
-	fields: [
+	"fields": [
 	  {
   "name": "HorizontalVelMax",
   "type": 6,

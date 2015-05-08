@@ -1,7 +1,7 @@
 {
 	"name": "StabilizationDesired",
 	"object_id": -1976957908,
-	fields: [
+	"fields": [
 	  {
   "name": "Roll",
   "type": 6,

@@ -1,7 +1,7 @@
 {
 	"name": "FlightBatterySettings",
 	"object_id": -1009137494,
-	fields: [
+	"fields": [
 	  {
   "name": "Capacity",
   "type": 5,

@@ -1,7 +1,7 @@
 {
 	"name": "PathAction",
 	"object_id": 611492014,
-	fields: [
+	"fields": [
 	  {
   "name": "ModeParameters",
   "type": 6,

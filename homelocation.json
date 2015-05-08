@@ -1,7 +1,7 @@
 {
 	"name": "HomeLocation",
 	"object_id": 1636162670,
-	fields: [
+	"fields": [
 	  {
   "name": "Latitude",
   "type": 2,

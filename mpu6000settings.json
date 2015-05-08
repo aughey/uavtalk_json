@@ -1,7 +1,7 @@
 {
 	"name": "Mpu6000Settings",
 	"object_id": -1458983300,
-	fields: [
+	"fields": [
 	  {
   "name": "GyroScale",
   "type": 7,

@@ -1,7 +1,7 @@
 {
 	"name": "AttitudeSettings",
 	"object_id": 1149850808,
-	fields: [
+	"fields": [
 	  {
   "name": "BoardRotation",
   "type": 6,

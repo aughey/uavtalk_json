@@ -1,7 +1,7 @@
 {
 	"name": "OsdSettings",
 	"object_id": -591681510,
-	fields: [
+	"fields": [
 	  {
   "name": "AttitudeSetup",
   "type": 1,

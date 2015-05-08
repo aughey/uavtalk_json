@@ -1,7 +1,7 @@
 {
 	"name": "GyroState",
 	"object_id": -1943174902,
-	fields: [
+	"fields": [
 	  {
   "name": "x",
   "type": 6,

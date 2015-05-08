@@ -1,7 +1,7 @@
 {
 	"name": "ActuatorCommand",
 	"object_id": -1205690396,
-	fields: [
+	"fields": [
 	  {
   "name": "Channel",
   "type": 1,

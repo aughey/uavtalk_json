@@ -1,7 +1,7 @@
 {
 	"name": "DebugLogControl",
 	"object_id": -1013562628,
-	fields: [
+	"fields": [
 	  {
   "name": "Flight",
   "type": 4,

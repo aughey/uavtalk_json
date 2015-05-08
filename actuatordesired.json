@@ -1,7 +1,7 @@
 {
 	"name": "ActuatorDesired",
 	"object_id": -354001880,
-	fields: [
+	"fields": [
 	  {
   "name": "Roll",
   "type": 6,

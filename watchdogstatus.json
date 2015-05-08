@@ -1,7 +1,7 @@
 {
 	"name": "WatchdogStatus",
 	"object_id": -1576535428,
-	fields: [
+	"fields": [
 	  {
   "name": "BootupFlags",
   "type": 4,

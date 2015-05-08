@@ -1,7 +1,7 @@
 {
 	"name": "GCSReceiver",
 	"object_id": -864152464,
-	fields: [
+	"fields": [
 	  {
   "name": "Channel",
   "type": 4,

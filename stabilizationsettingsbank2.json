@@ -1,7 +1,7 @@
 {
 	"name": "StabilizationSettingsBank2",
 	"object_id": 1894339482,
-	fields: [
+	"fields": [
 	  {
   "name": "ManualRate",
   "type": 6,

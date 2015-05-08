@@ -1,7 +1,7 @@
 {
 	"name": "FaultSettings",
 	"object_id": 662223420,
-	fields: [
+	"fields": [
 	  {
   "name": "ActivateFault",
   "type": 7,
