@@ -1,21 +1,21 @@
 {
-	"name": "SystemAlarms",
-	"object_id": 1802910188,
-	"fields": [
-	  {
-  "name": "Alarm",
-  "type": 7,
-  "numElements": 21
-},
-{
-  "name": "ExtendedAlarmStatus",
-  "type": 7,
-  "numElements": 2
-},
-{
-  "name": "ExtendedAlarmSubStatus",
-  "type": 3,
-  "numElements": 2
-}
-	]
+  "name": "SystemAlarms",
+  "object_id": 1802910188,
+  "fields": [
+    {
+      "name": "Alarm",
+      "type": 7,
+      "numElements": 21
+    },
+    {
+      "name": "ExtendedAlarmStatus",
+      "type": 7,
+      "numElements": 2
+    },
+    {
+      "name": "ExtendedAlarmSubStatus",
+      "type": 3,
+      "numElements": 2
+    }
+  ]
 }

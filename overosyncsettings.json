@@ -1,11 +1,11 @@
 {
-	"name": "OveroSyncSettings",
-	"object_id": -1582579080,
-	"fields": [
-	  {
-  "name": "LogOn",
-  "type": 7,
-  "numElements": 1
-}
-	]
+  "name": "OveroSyncSettings",
+  "object_id": -1582579080,
+  "fields": [
+    {
+      "name": "LogOn",
+      "type": 7,
+      "numElements": 1
+    }
+  ]
 }

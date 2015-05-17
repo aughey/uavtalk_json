@@ -1,11 +1,11 @@
 {
-	"name": "FlightPlanControl",
-	"object_id": 1407447424,
-	"fields": [
-	  {
-  "name": "Command",
-  "type": 7,
-  "numElements": 1
-}
-	]
+  "name": "FlightPlanControl",
+  "object_id": 1407447424,
+  "fields": [
+    {
+      "name": "Command",
+      "type": 7,
+      "numElements": 1
+    }
+  ]
 }

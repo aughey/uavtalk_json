@@ -1,11 +1,11 @@
 {
-	"name": "DebugLogSettings",
-	"object_id": 1582891980,
-	"fields": [
-	  {
-  "name": "LoggingEnabled",
-  "type": 7,
-  "numElements": 1
-}
-	]
+  "name": "DebugLogSettings",
+  "object_id": 1582891980,
+  "fields": [
+    {
+      "name": "LoggingEnabled",
+      "type": 7,
+      "numElements": 1
+    }
+  ]
 }

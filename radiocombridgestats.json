@@ -1,76 +1,76 @@
 {
-	"name": "RadioComBridgeStats",
-	"object_id": 614051416,
-	"fields": [
-	  {
-  "name": "TelemetryTxBytes",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "TelemetryTxFailures",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "TelemetryTxRetries",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "TelemetryRxBytes",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "TelemetryRxFailures",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "TelemetryRxSyncErrors",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "TelemetryRxCrcErrors",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "RadioTxBytes",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "RadioTxFailures",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "RadioTxRetries",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "RadioRxBytes",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "RadioRxFailures",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "RadioRxSyncErrors",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "RadioRxCrcErrors",
-  "type": 5,
-  "numElements": 1
-}
-	]
+  "name": "RadioComBridgeStats",
+  "object_id": 614051416,
+  "fields": [
+    {
+      "name": "TelemetryTxBytes",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "TelemetryTxFailures",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "TelemetryTxRetries",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "TelemetryRxBytes",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "TelemetryRxFailures",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "TelemetryRxSyncErrors",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "TelemetryRxCrcErrors",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "RadioTxBytes",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "RadioTxFailures",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "RadioTxRetries",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "RadioRxBytes",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "RadioRxFailures",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "RadioRxSyncErrors",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "RadioRxCrcErrors",
+      "type": 5,
+      "numElements": 1
+    }
+  ]
 }

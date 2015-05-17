@@ -1,86 +1,86 @@
 {
-	"name": "FlightModeSettings",
-	"object_id": -1134894724,
-	"fields": [
-	  {
-  "name": "ReturnToBaseAltitudeOffset",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "LandingVelocity",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "PositionHoldOffset",
-  "type": 6,
-  "numElements": 2
-},
-{
-  "name": "VarioControlLowPassAlpha",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "ArmedTimeout",
-  "type": 4,
-  "numElements": 1
-},
-{
-  "name": "ArmingSequenceTime",
-  "type": 4,
-  "numElements": 1
-},
-{
-  "name": "DisarmingSequenceTime",
-  "type": 4,
-  "numElements": 1
-},
-{
-  "name": "Arming",
-  "type": 7,
-  "numElements": 1
-},
-{
-  "name": "Stabilization1Settings",
-  "type": 7,
-  "numElements": 4
-},
-{
-  "name": "Stabilization2Settings",
-  "type": 7,
-  "numElements": 4
-},
-{
-  "name": "Stabilization3Settings",
-  "type": 7,
-  "numElements": 4
-},
-{
-  "name": "Stabilization4Settings",
-  "type": 7,
-  "numElements": 4
-},
-{
-  "name": "Stabilization5Settings",
-  "type": 7,
-  "numElements": 4
-},
-{
-  "name": "Stabilization6Settings",
-  "type": 7,
-  "numElements": 4
-},
-{
-  "name": "FlightModePosition",
-  "type": 7,
-  "numElements": 6
-},
-{
-  "name": "DisableSanityChecks",
-  "type": 7,
-  "numElements": 1
-}
-	]
+  "name": "FlightModeSettings",
+  "object_id": -1134894724,
+  "fields": [
+    {
+      "name": "ReturnToBaseAltitudeOffset",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "LandingVelocity",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "PositionHoldOffset",
+      "type": 6,
+      "numElements": 2
+    },
+    {
+      "name": "VarioControlLowPassAlpha",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "ArmedTimeout",
+      "type": 4,
+      "numElements": 1
+    },
+    {
+      "name": "ArmingSequenceTime",
+      "type": 4,
+      "numElements": 1
+    },
+    {
+      "name": "DisarmingSequenceTime",
+      "type": 4,
+      "numElements": 1
+    },
+    {
+      "name": "Arming",
+      "type": 7,
+      "numElements": 1
+    },
+    {
+      "name": "Stabilization1Settings",
+      "type": 7,
+      "numElements": 4
+    },
+    {
+      "name": "Stabilization2Settings",
+      "type": 7,
+      "numElements": 4
+    },
+    {
+      "name": "Stabilization3Settings",
+      "type": 7,
+      "numElements": 4
+    },
+    {
+      "name": "Stabilization4Settings",
+      "type": 7,
+      "numElements": 4
+    },
+    {
+      "name": "Stabilization5Settings",
+      "type": 7,
+      "numElements": 4
+    },
+    {
+      "name": "Stabilization6Settings",
+      "type": 7,
+      "numElements": 4
+    },
+    {
+      "name": "FlightModePosition",
+      "type": 7,
+      "numElements": 6
+    },
+    {
+      "name": "DisableSanityChecks",
+      "type": 7,
+      "numElements": 1
+    }
+  ]
 }

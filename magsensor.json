@@ -1,26 +1,26 @@
 {
-	"name": "MagSensor",
-	"object_id": 1893389398,
-	"fields": [
-	  {
-  "name": "x",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "y",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "z",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "temperature",
-  "type": 6,
-  "numElements": 1
-}
-	]
+  "name": "MagSensor",
+  "object_id": 1893389398,
+  "fields": [
+    {
+      "name": "x",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "y",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "z",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "temperature",
+      "type": 6,
+      "numElements": 1
+    }
+  ]
 }

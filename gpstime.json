@@ -1,36 +1,36 @@
 {
-	"name": "GPSTime",
-	"object_id": -733511548,
-	"fields": [
-	  {
-  "name": "Year",
-  "type": 1,
-  "numElements": 1
-},
-{
-  "name": "Month",
-  "type": 0,
-  "numElements": 1
-},
-{
-  "name": "Day",
-  "type": 0,
-  "numElements": 1
-},
-{
-  "name": "Hour",
-  "type": 0,
-  "numElements": 1
-},
-{
-  "name": "Minute",
-  "type": 0,
-  "numElements": 1
-},
-{
-  "name": "Second",
-  "type": 0,
-  "numElements": 1
-}
-	]
+  "name": "GPSTime",
+  "object_id": -733511548,
+  "fields": [
+    {
+      "name": "Year",
+      "type": 1,
+      "numElements": 1
+    },
+    {
+      "name": "Month",
+      "type": 0,
+      "numElements": 1
+    },
+    {
+      "name": "Day",
+      "type": 0,
+      "numElements": 1
+    },
+    {
+      "name": "Hour",
+      "type": 0,
+      "numElements": 1
+    },
+    {
+      "name": "Minute",
+      "type": 0,
+      "numElements": 1
+    },
+    {
+      "name": "Second",
+      "type": 0,
+      "numElements": 1
+    }
+  ]
 }

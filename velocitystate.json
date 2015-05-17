@@ -1,21 +1,21 @@
 {
-	"name": "VelocityState",
-	"object_id": -1035769748,
-	"fields": [
-	  {
-  "name": "North",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "East",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "Down",
-  "type": 6,
-  "numElements": 1
-}
-	]
+  "name": "VelocityState",
+  "object_id": -1035769748,
+  "fields": [
+    {
+      "name": "North",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "East",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "Down",
+      "type": 6,
+      "numElements": 1
+    }
+  ]
 }

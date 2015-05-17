@@ -1,36 +1,36 @@
 {
-	"name": "AirspeedSettings",
-	"object_id": 1777642874,
-	"fields": [
-	  {
-  "name": "Scale",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "IMUBasedEstimationLowPassPeriod1",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "IMUBasedEstimationLowPassPeriod2",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "ZeroPoint",
-  "type": 4,
-  "numElements": 1
-},
-{
-  "name": "SamplePeriod",
-  "type": 3,
-  "numElements": 1
-},
-{
-  "name": "AirspeedSensorType",
-  "type": 7,
-  "numElements": 1
-}
-	]
+  "name": "AirspeedSettings",
+  "object_id": 1777642874,
+  "fields": [
+    {
+      "name": "Scale",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "IMUBasedEstimationLowPassPeriod1",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "IMUBasedEstimationLowPassPeriod2",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "ZeroPoint",
+      "type": 4,
+      "numElements": 1
+    },
+    {
+      "name": "SamplePeriod",
+      "type": 3,
+      "numElements": 1
+    },
+    {
+      "name": "AirspeedSensorType",
+      "type": 7,
+      "numElements": 1
+    }
+  ]
 }

@@ -1,11 +1,11 @@
 {
-	"name": "PoiLearnSettings",
-	"object_id": -1641879520,
-	"fields": [
-	  {
-  "name": "Input",
-  "type": 7,
-  "numElements": 1
-}
-	]
+  "name": "PoiLearnSettings",
+  "object_id": -1641879520,
+  "fields": [
+    {
+      "name": "Input",
+      "type": 7,
+      "numElements": 1
+    }
+  ]
 }

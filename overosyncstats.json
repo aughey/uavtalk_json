@@ -1,41 +1,41 @@
 {
-	"name": "OveroSyncStats",
-	"object_id": -771203156,
-	"fields": [
-	  {
-  "name": "Send",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "Received",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "FramesyncErrors",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "UnderrunErrors",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "DroppedUpdates",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "Packets",
-  "type": 5,
-  "numElements": 1
-},
-{
-  "name": "Connected",
-  "type": 7,
-  "numElements": 1
-}
-	]
+  "name": "OveroSyncStats",
+  "object_id": -771203156,
+  "fields": [
+    {
+      "name": "Send",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "Received",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "FramesyncErrors",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "UnderrunErrors",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "DroppedUpdates",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "Packets",
+      "type": 5,
+      "numElements": 1
+    },
+    {
+      "name": "Connected",
+      "type": 7,
+      "numElements": 1
+    }
+  ]
 }

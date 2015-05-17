@@ -1,11 +1,11 @@
 {
-	"name": "OPLinkReceiver",
-	"object_id": 220843228,
-	"fields": [
-	  {
-  "name": "Channel",
-  "type": 1,
-  "numElements": 8
-}
-	]
+  "name": "OPLinkReceiver",
+  "object_id": 220843228,
+  "fields": [
+    {
+      "name": "Channel",
+      "type": 1,
+      "numElements": 8
+    }
+  ]
 }

@@ -1,11 +1,11 @@
 {
-	"name": "WaypointActive",
-	"object_id": 514175388,
-	"fields": [
-	  {
-  "name": "Index",
-  "type": 1,
-  "numElements": 1
-}
-	]
+  "name": "WaypointActive",
+  "object_id": 514175388,
+  "fields": [
+    {
+      "name": "Index",
+      "type": 1,
+      "numElements": 1
+    }
+  ]
 }

@@ -1,21 +1,21 @@
 {
-	"name": "TaskInfo",
-	"object_id": 2049486824,
-	"fields": [
-	  {
-  "name": "StackRemaining",
-  "type": 4,
-  "numElements": 21
-},
-{
-  "name": "Running",
-  "type": 7,
-  "numElements": 21
-},
-{
-  "name": "RunningTime",
-  "type": 3,
-  "numElements": 21
-}
-	]
+  "name": "TaskInfo",
+  "object_id": 2049486824,
+  "fields": [
+    {
+      "name": "StackRemaining",
+      "type": 4,
+      "numElements": 21
+    },
+    {
+      "name": "Running",
+      "type": 7,
+      "numElements": 21
+    },
+    {
+      "name": "RunningTime",
+      "type": 3,
+      "numElements": 21
+    }
+  ]
 }

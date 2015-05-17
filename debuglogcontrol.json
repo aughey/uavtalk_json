@@ -1,21 +1,21 @@
 {
-	"name": "DebugLogControl",
-	"object_id": -1013562628,
-	"fields": [
-	  {
-  "name": "Flight",
-  "type": 4,
-  "numElements": 1
-},
-{
-  "name": "Entry",
-  "type": 4,
-  "numElements": 1
-},
-{
-  "name": "Operation",
-  "type": 7,
-  "numElements": 1
-}
-	]
+  "name": "DebugLogControl",
+  "object_id": -1013562628,
+  "fields": [
+    {
+      "name": "Flight",
+      "type": 4,
+      "numElements": 1
+    },
+    {
+      "name": "Entry",
+      "type": 4,
+      "numElements": 1
+    },
+    {
+      "name": "Operation",
+      "type": 7,
+      "numElements": 1
+    }
+  ]
 }

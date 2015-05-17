@@ -1,26 +1,26 @@
 {
-	"name": "RevoCalibration",
-	"object_id": -1553780670,
-	"fields": [
-	  {
-  "name": "mag_bias",
-  "type": 6,
-  "numElements": 3
-},
-{
-  "name": "mag_transform",
-  "type": 6,
-  "numElements": 9
-},
-{
-  "name": "MagBiasNullingRate",
-  "type": 6,
-  "numElements": 1
-},
-{
-  "name": "BiasCorrectedRaw",
-  "type": 7,
-  "numElements": 1
-}
-	]
+  "name": "RevoCalibration",
+  "object_id": -1553780670,
+  "fields": [
+    {
+      "name": "mag_bias",
+      "type": 6,
+      "numElements": 3
+    },
+    {
+      "name": "mag_transform",
+      "type": 6,
+      "numElements": 9
+    },
+    {
+      "name": "MagBiasNullingRate",
+      "type": 6,
+      "numElements": 1
+    },
+    {
+      "name": "BiasCorrectedRaw",
+      "type": 7,
+      "numElements": 1
+    }
+  ]
 }
