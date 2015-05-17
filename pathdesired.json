@@ -1,6 +1,7 @@
 {
   "name": "PathDesired",
   "object_id": 853399890,
+  "unpackstr": "<f(Start)f(End)f(StartingVelocity)f(EndingVelocity)f(ModeParameters)h(UID)B(Mode)",
   "fields": [
     {
       "name": "Start",

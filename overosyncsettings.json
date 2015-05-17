@@ -1,6 +1,7 @@
 {
   "name": "OveroSyncSettings",
   "object_id": -1582579080,
+  "unpackstr": "<B(LogOn)",
   "fields": [
     {
       "name": "LogOn",

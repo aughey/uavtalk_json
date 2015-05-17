@@ -1,6 +1,7 @@
 {
   "name": "GPSTime",
   "object_id": -733511548,
+  "unpackstr": "<h(Year)b(Month)b(Day)b(Hour)b(Minute)b(Second)",
   "fields": [
     {
       "name": "Year",

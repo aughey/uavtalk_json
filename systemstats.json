@@ -1,6 +1,7 @@
 {
   "name": "SystemStats",
   "object_id": 1086324476,
+  "unpackstr": "<I(FlightTime)I(HeapRemaining)I(EventSystemWarningID)I(ObjectManagerCallbackID)I(ObjectManagerQueueID)H(IRQStackRemaining)H(SystemModStackRemaining)H(SysSlotsFree)H(SysSlotsActive)H(UsrSlotsFree)H(UsrSlotsActive)B(CPULoad)b(CPUTemp)",
   "fields": [
     {
       "name": "FlightTime",

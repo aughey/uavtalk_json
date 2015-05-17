@@ -1,6 +1,7 @@
 {
   "name": "SystemSettings",
   "object_id": -640642120,
+  "unpackstr": "<I(GUIConfigData)f(AirSpeedMax)f(AirSpeedMin)B(AirframeType)B(VehicleName)B(ThrustControl)",
   "fields": [
     {
       "name": "GUIConfigData",

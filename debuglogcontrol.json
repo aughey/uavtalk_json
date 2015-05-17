@@ -1,6 +1,7 @@
 {
   "name": "DebugLogControl",
   "object_id": -1013562628,
+  "unpackstr": "<H(Flight)H(Entry)B(Operation)",
   "fields": [
     {
       "name": "Flight",

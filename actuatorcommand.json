@@ -1,6 +1,7 @@
 {
   "name": "ActuatorCommand",
   "object_id": -1205690396,
+  "unpackstr": "<h(Channel)H(UpdateTime)H(MaxUpdateTime)B(NumFailedUpdates)",
   "fields": [
     {
       "name": "Channel",

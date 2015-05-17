@@ -1,6 +1,7 @@
 {
   "name": "GPSVelocitySensor",
   "object_id": 197489748,
+  "unpackstr": "<f(North)f(East)f(Down)",
   "fields": [
     {
       "name": "North",

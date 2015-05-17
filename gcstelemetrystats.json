@@ -1,6 +1,7 @@
 {
   "name": "GCSTelemetryStats",
   "object_id": -892216310,
+  "unpackstr": "<f(TxDataRate)I(TxBytes)I(TxFailures)I(TxRetries)f(RxDataRate)I(RxBytes)I(RxFailures)I(RxSyncErrors)I(RxCrcErrors)B(Status)",
   "fields": [
     {
       "name": "TxDataRate",

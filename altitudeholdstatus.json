@@ -1,6 +1,7 @@
 {
   "name": "AltitudeHoldStatus",
   "object_id": -1750085946,
+  "unpackstr": "<f(VelocityDesired)",
   "fields": [
     {
       "name": "VelocityDesired",

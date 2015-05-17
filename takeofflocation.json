@@ -1,6 +1,7 @@
 {
   "name": "TakeOffLocation",
   "object_id": -762118708,
+  "unpackstr": "<f(North)f(East)f(Down)B(Mode)B(Status)",
   "fields": [
     {
       "name": "North",

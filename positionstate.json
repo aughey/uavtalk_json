@@ -1,6 +1,7 @@
 {
   "name": "PositionState",
   "object_id": 1258141272,
+  "unpackstr": "<f(North)f(East)f(Down)",
   "fields": [
     {
       "name": "North",

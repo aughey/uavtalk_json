@@ -1,6 +1,7 @@
 {
   "name": "VelocityState",
   "object_id": -1035769748,
+  "unpackstr": "<f(North)f(East)f(Down)",
   "fields": [
     {
       "name": "North",

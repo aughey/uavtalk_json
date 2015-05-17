@@ -1,6 +1,7 @@
 {
   "name": "GPSPositionSensor",
   "object_id": 2099685094,
+  "unpackstr": "<i(Latitude)i(Longitude)f(Altitude)f(GeoidSeparation)f(Heading)f(Groundspeed)f(PDOP)f(HDOP)f(VDOP)B(Status)b(Satellites)B(SensorType)B(AutoConfigStatus)",
   "fields": [
     {
       "name": "Latitude",

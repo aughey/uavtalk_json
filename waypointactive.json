@@ -1,6 +1,7 @@
 {
   "name": "WaypointActive",
   "object_id": 514175388,
+  "unpackstr": "<h(Index)",
   "fields": [
     {
       "name": "Index",

@@ -1,6 +1,7 @@
 {
   "name": "AccelState",
   "object_id": -1388573178,
+  "unpackstr": "<f(x)f(y)f(z)",
   "fields": [
     {
       "name": "x",

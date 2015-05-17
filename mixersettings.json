@@ -1,6 +1,7 @@
 {
   "name": "MixerSettings",
   "object_id": 2079510440,
+  "unpackstr": "<f(MaxAccel)f(FeedForward)f(AccelTime)f(DecelTime)f(ThrottleCurve1)f(ThrottleCurve2)b(MixerValueRoll)b(MixerValuePitch)b(MixerValueYaw)B(Curve2Source)B(Mixer1Type)b(Mixer1Vector)B(Mixer2Type)b(Mixer2Vector)B(Mixer3Type)b(Mixer3Vector)B(Mixer4Type)b(Mixer4Vector)B(Mixer5Type)b(Mixer5Vector)B(Mixer6Type)b(Mixer6Vector)B(Mixer7Type)b(Mixer7Vector)B(Mixer8Type)b(Mixer8Vector)B(Mixer9Type)b(Mixer9Vector)B(Mixer10Type)b(Mixer10Vector)B(Mixer11Type)b(Mixer11Vector)B(Mixer12Type)b(Mixer12Vector)",
   "fields": [
     {
       "name": "MaxAccel",

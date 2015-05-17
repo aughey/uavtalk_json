@@ -1,6 +1,7 @@
 {
   "name": "AttitudeState",
   "object_id": -673130140,
+  "unpackstr": "<f(q1)f(q2)f(q3)f(q4)f(Roll)f(Pitch)f(Yaw)",
   "fields": [
     {
       "name": "q1",

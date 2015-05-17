@@ -1,6 +1,7 @@
 {
   "name": "StabilizationStatus",
   "object_id": 954906258,
+  "unpackstr": "<B(OuterLoop)B(InnerLoop)",
   "fields": [
     {
       "name": "OuterLoop",

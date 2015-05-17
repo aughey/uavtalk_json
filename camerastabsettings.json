@@ -1,6 +1,7 @@
 {
   "name": "CameraStabSettings",
   "object_id": -363272902,
+  "unpackstr": "<f(MaxAxisLockRate)H(MaxAccel)B(Input)B(InputRange)B(InputRate)B(StabilizationMode)B(OutputRange)B(ResponseTime)B(GimbalType)B(FeedForward)B(AccelTime)B(DecelTime)B(Servo1PitchReverse)B(Servo2PitchReverse)",
   "fields": [
     {
       "name": "MaxAxisLockRate",

@@ -1,6 +1,7 @@
 {
   "name": "VtolSelfTuningStats",
   "object_id": 453712692,
+  "unpackstr": "<f(NeutralThrustOffset)f(NeutralThrustCorrection)f(NeutralThrustAccumulator)f(NeutralThrustRange)",
   "fields": [
     {
       "name": "NeutralThrustOffset",

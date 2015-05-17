@@ -1,6 +1,7 @@
 {
   "name": "TxPIDSettings",
   "object_id": -2055515662,
+  "unpackstr": "<f(ThrottleRange)f(MinPID)f(MaxPID)B(UpdateMode)B(BankNumber)B(Inputs)B(PIDs)",
   "fields": [
     {
       "name": "ThrottleRange",

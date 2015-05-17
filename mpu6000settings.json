@@ -1,6 +1,7 @@
 {
   "name": "Mpu6000Settings",
   "object_id": -1458983300,
+  "unpackstr": "<B(GyroScale)B(AccelScale)B(FilterSetting)",
   "fields": [
     {
       "name": "GyroScale",

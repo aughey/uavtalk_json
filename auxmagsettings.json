@@ -1,6 +1,7 @@
 {
   "name": "AuxMagSettings",
   "object_id": 70207018,
+  "unpackstr": "<f(mag_bias)f(mag_transform)f(MagBiasNullingRate)f(Orientation)B(Type)B(Usage)",
   "fields": [
     {
       "name": "mag_bias",

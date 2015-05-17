@@ -1,6 +1,7 @@
 {
   "name": "CallbackInfo",
   "object_id": -1182480500,
+  "unpackstr": "<I(RunningTime)h(StackRemaining)B(Running)",
   "fields": [
     {
       "name": "RunningTime",

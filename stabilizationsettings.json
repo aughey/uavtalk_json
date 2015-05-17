@@ -1,6 +1,7 @@
 {
   "name": "StabilizationSettings",
   "object_id": 1935683968,
+  "unpackstr": "<f(VbarSensitivity)f(VbarRollPI)f(VbarPitchPI)f(VbarYawPI)f(VbarTau)f(GyroTau)f(DerivativeGamma)f(AxisLockKp)f(WeakLevelingKp)f(CruiseControlMaxPowerFactor)f(CruiseControlPowerTrim)f(CruiseControlPowerDelayComp)f(ScaleToAirspeed)f(ScaleToAirspeedLimits)B(FlightModeMap)b(VbarGyroSuppress)B(VbarPiroComp)B(VbarMaxAngle)B(DerivativeCutoff)B(MaxAxisLock)B(MaxAxisLockRate)B(MaxWeakLevelingRate)B(RattitudeModeTransition)b(CruiseControlMinThrust)B(CruiseControlMaxThrust)B(CruiseControlMaxAngle)B(CruiseControlFlightModeSwitchPosEnable)B(CruiseControlInvertedThrustReversing)B(CruiseControlInvertedPowerOutput)B(LowThrottleZeroIntegral)B(FlightModeAssistMap)",
   "fields": [
     {
       "name": "VbarSensitivity",

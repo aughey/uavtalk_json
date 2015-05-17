@@ -1,6 +1,7 @@
 {
   "name": "I2CStats",
   "object_id": -1223392706,
+  "unpackstr": "<I(evirq_log)I(erirq_log)B(event_errors)B(fsm_errors)B(irq_errors)B(nacks)B(timeouts)B(last_error_type)B(event_log)B(state_log)",
   "fields": [
     {
       "name": "evirq_log",

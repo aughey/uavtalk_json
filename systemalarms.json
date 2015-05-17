@@ -1,6 +1,7 @@
 {
   "name": "SystemAlarms",
   "object_id": 1802910188,
+  "unpackstr": "<B(Alarm)B(ExtendedAlarmStatus)B(ExtendedAlarmSubStatus)",
   "fields": [
     {
       "name": "Alarm",

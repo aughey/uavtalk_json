@@ -1,6 +1,7 @@
 {
   "name": "RevoCalibration",
   "object_id": -1553780670,
+  "unpackstr": "<f(mag_bias)f(mag_transform)f(MagBiasNullingRate)B(BiasCorrectedRaw)",
   "fields": [
     {
       "name": "mag_bias",

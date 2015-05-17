@@ -1,6 +1,7 @@
 {
   "name": "OPLinkReceiver",
   "object_id": 220843228,
+  "unpackstr": "<h(Channel)",
   "fields": [
     {
       "name": "Channel",

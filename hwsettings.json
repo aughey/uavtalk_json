@@ -1,6 +1,7 @@
 {
   "name": "HwSettings",
   "object_id": -1503896368,
+  "unpackstr": "<B(CC_RcvrPort)B(CC_MainPort)B(CC_FlexiPort)B(RV_RcvrPort)B(RV_AuxPort)B(RV_AuxSBusPort)B(RV_FlexiPort)B(RV_TelemetryPort)B(RV_GPSPort)B(RM_RcvrPort)B(RM_MainPort)B(RM_FlexiPort)B(TelemetrySpeed)B(GPSSpeed)B(ComUsbBridgeSpeed)B(USB_HIDPort)B(USB_VCPPort)B(OptionalModules)B(ADCRouting)B(DSMxBind)B(WS2811LED_Out)",
   "fields": [
     {
       "name": "CC_RcvrPort",

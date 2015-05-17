@@ -1,6 +1,7 @@
 {
   "name": "FlightBatterySettings",
   "object_id": -1009137494,
+  "unpackstr": "<I(Capacity)f(CellVoltageThresholds)f(SensorCalibrations)B(Type)B(NbCells)",
   "fields": [
     {
       "name": "Capacity",

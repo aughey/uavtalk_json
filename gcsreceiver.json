@@ -1,6 +1,7 @@
 {
   "name": "GCSReceiver",
   "object_id": -864152464,
+  "unpackstr": "<H(Channel)",
   "fields": [
     {
       "name": "Channel",

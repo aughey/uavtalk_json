@@ -1,6 +1,7 @@
 {
   "name": "GyroState",
   "object_id": -1943174902,
+  "unpackstr": "<f(x)f(y)f(z)",
   "fields": [
     {
       "name": "x",

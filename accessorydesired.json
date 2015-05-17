@@ -1,6 +1,7 @@
 {
   "name": "AccessoryDesired",
   "object_id": -1006004134,
+  "unpackstr": "<f(AccessoryVal)",
   "fields": [
     {
       "name": "AccessoryVal",

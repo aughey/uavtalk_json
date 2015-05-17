@@ -1,6 +1,7 @@
 {
   "name": "FixedWingPathFollowerStatus",
   "object_id": 904726664,
+  "unpackstr": "<f(Error)f(ErrorInt)f(Command)B(Errors)",
   "fields": [
     {
       "name": "Error",

@@ -1,6 +1,7 @@
 {
   "name": "ActuatorDesired",
   "object_id": -354001880,
+  "unpackstr": "<f(Roll)f(Pitch)f(Yaw)f(Thrust)f(UpdateTime)f(NumLongUpdates)",
   "fields": [
     {
       "name": "Roll",

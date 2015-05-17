@@ -1,6 +1,7 @@
 {
   "name": "BaroSensor",
   "object_id": 1209142950,
+  "unpackstr": "<f(Altitude)f(Temperature)f(Pressure)",
   "fields": [
     {
       "name": "Altitude",

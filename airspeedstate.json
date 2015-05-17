@@ -1,6 +1,7 @@
 {
   "name": "AirspeedState",
   "object_id": -956260568,
+  "unpackstr": "<f(CalibratedAirspeed)f(TrueAirspeed)",
   "fields": [
     {
       "name": "CalibratedAirspeed",

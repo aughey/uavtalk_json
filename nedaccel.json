@@ -1,6 +1,7 @@
 {
   "name": "NedAccel",
   "object_id": 2088721344,
+  "unpackstr": "<f(North)f(East)f(Down)",
   "fields": [
     {
       "name": "North",

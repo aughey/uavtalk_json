@@ -1,6 +1,7 @@
 {
   "name": "AttitudeSimulated",
   "object_id": -1838756236,
+  "unpackstr": "<f(q1)f(q2)f(q3)f(q4)f(Roll)f(Pitch)f(Yaw)f(Velocity)f(Position)",
   "fields": [
     {
       "name": "q1",

@@ -1,6 +1,7 @@
 {
   "name": "AccelSensor",
   "object_id": -1954824266,
+  "unpackstr": "<f(x)f(y)f(z)f(temperature)",
   "fields": [
     {
       "name": "x",

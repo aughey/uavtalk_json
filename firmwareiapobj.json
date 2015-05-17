@@ -1,6 +1,7 @@
 {
   "name": "FirmwareIAPObj",
   "object_id": -2094468526,
+  "unpackstr": "<I(crc)H(Command)H(BoardRevision)B(Description)B(CPUSerial)B(BoardType)B(BootloaderRevision)B(ArmReset)",
   "fields": [
     {
       "name": "crc",

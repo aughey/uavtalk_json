@@ -1,6 +1,7 @@
 {
   "name": "TaskInfo",
   "object_id": 2049486824,
+  "unpackstr": "<H(StackRemaining)B(Running)B(RunningTime)",
   "fields": [
     {
       "name": "StackRemaining",

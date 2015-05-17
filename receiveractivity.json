@@ -1,6 +1,7 @@
 {
   "name": "ReceiverActivity",
   "object_id": -11333596,
+  "unpackstr": "<B(ActiveGroup)B(ActiveChannel)",
   "fields": [
     {
       "name": "ActiveGroup",

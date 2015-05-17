@@ -1,6 +1,7 @@
 {
   "name": "StabilizationBank",
   "object_id": -420572922,
+  "unpackstr": "<f(ManualRate)f(MaximumRate)f(RollRatePID)f(PitchRatePID)f(YawRatePID)f(RollPI)f(PitchPI)f(YawPI)f(AcroInsanityFactor)f(ThrustPIDScaleCurve)B(RollMax)B(PitchMax)B(YawMax)b(StickExpo)B(EnablePiroComp)B(EnableThrustPIDScaling)B(ThrustPIDScaleSource)B(ThrustPIDScaleTarget)B(ThrustPIDScaleAxes)",
   "fields": [
     {
       "name": "ManualRate",
