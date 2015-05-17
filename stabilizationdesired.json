@@ -1,6 +1,7 @@
 {
   "name": "StabilizationDesired",
   "object_id": -1976957908,
+  "size": 17,
   "unpackstr": "<f(Roll)f(Pitch)f(Yaw)f(Thrust)B(StabilizationMode)",
   "fields": [
     {

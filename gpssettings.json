@@ -1,6 +1,7 @@
 {
   "name": "GPSSettings",
   "object_id": -589410704,
+  "size": 12,
   "unpackstr": "<f(MaxPDOP)B(DataProtocol)B(MinSatellites)B(UbxAutoConfig)b(UbxRate)B(UbxDynamicModel)B(UbxSBASMode)B(UbxSBASChannelsUsed)B(UbxSBASSats)",
   "fields": [
     {

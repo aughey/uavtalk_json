@@ -1,6 +1,7 @@
 {
   "name": "SonarAltitude",
   "object_id": 1817840828,
+  "size": 4,
   "unpackstr": "<f(Altitude)",
   "fields": [
     {

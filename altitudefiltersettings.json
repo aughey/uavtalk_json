@@ -1,6 +1,7 @@
 {
   "name": "AltitudeFilterSettings",
   "object_id": -435092436,
+  "size": 16,
   "unpackstr": "<f(AccelLowPassKp)f(AccelDriftKi)f(InitializationAccelDriftKi)f(BaroKp)",
   "fields": [
     {

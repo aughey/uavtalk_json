@@ -1,6 +1,7 @@
 {
   "name": "RadioComBridgeStats",
   "object_id": 614051416,
+  "size": 56,
   "unpackstr": "<I(TelemetryTxBytes)I(TelemetryTxFailures)I(TelemetryTxRetries)I(TelemetryRxBytes)I(TelemetryRxFailures)I(TelemetryRxSyncErrors)I(TelemetryRxCrcErrors)I(RadioTxBytes)I(RadioTxFailures)I(RadioTxRetries)I(RadioRxBytes)I(RadioRxFailures)I(RadioRxSyncErrors)I(RadioRxCrcErrors)",
   "fields": [
     {

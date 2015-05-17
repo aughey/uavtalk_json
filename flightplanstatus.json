@@ -1,6 +1,7 @@
 {
   "name": "FlightPlanStatus",
   "object_id": 570879558,
+  "size": 14,
   "unpackstr": "<I(ErrorFileID)I(ErrorLineNum)f(Debug)B(Status)B(ErrorType)",
   "fields": [
     {

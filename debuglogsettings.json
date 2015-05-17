@@ -1,6 +1,7 @@
 {
   "name": "DebugLogSettings",
   "object_id": 1582891980,
+  "size": 1,
   "unpackstr": "<B(LoggingEnabled)",
   "fields": [
     {

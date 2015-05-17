@@ -1,6 +1,7 @@
 {
   "name": "AirspeedSensor",
   "object_id": 1133338522,
+  "size": 21,
   "unpackstr": "<f(DifferentialPressure)f(Temperature)f(CalibratedAirspeed)f(TrueAirspeed)H(SensorValue)H(SensorValueTemperature)B(SensorConnected)",
   "fields": [
     {

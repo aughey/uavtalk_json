@@ -1,6 +1,7 @@
 {
   "name": "VelocityDesired",
   "object_id": -1634440814,
+  "size": 12,
   "unpackstr": "<f(North)f(East)f(Down)",
   "fields": [
     {

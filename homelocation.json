@@ -1,6 +1,7 @@
 {
   "name": "HomeLocation",
   "object_id": 1636162670,
+  "size": 21,
   "unpackstr": "<i(Latitude)i(Longitude)f(Altitude)f(Be)f(g_e)B(Set)",
   "fields": [
     {

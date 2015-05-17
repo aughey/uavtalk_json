@@ -1,6 +1,7 @@
 {
   "name": "OPLinkSettings",
   "object_id": -2004486126,
+  "size": 15,
   "unpackstr": "<I(CoordID)B(Coordinator)B(OneWay)B(PPM)B(PPMOnly)B(MainPort)B(FlexiPort)B(VCPPort)B(ComSpeed)B(MaxRFPower)B(MinChannel)B(MaxChannel)",
   "fields": [
     {

@@ -1,6 +1,7 @@
 {
   "name": "ActuatorSettings",
   "object_id": -760389470,
+  "size": 13,
   "unpackstr": "<H(BankUpdateFreq)h(ChannelMax)h(ChannelNeutral)h(ChannelMin)B(BankMode)B(ChannelType)B(ChannelAddr)B(MotorsSpinWhileArmed)B(LowThrottleZeroAxis)",
   "fields": [
     {

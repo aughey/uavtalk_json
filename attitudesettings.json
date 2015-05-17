@@ -1,6 +1,7 @@
 {
   "name": "AttitudeSettings",
   "object_id": 1149850808,
+  "size": 35,
   "unpackstr": "<f(BoardRotation)f(BoardLevelTrim)f(AccelKp)f(AccelKi)f(MagKi)f(MagKp)f(AccelTau)f(YawBiasRate)B(ZeroDuringArming)B(BiasCorrectGyro)B(TrimFlight)",
   "fields": [
     {

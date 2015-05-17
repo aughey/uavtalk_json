@@ -1,6 +1,7 @@
 {
   "name": "PathSummary",
   "object_id": 489838644,
+  "size": 27,
   "unpackstr": "<f(brake_distance_offset)f(time_remaining)f(fractional_progress)f(decelrate)f(brakeRateActualDesiredRatio)f(velocityIntoHold)h(UID)B(brake_exit_reason)",
   "fields": [
     {

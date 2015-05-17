@@ -1,6 +1,7 @@
 {
   "name": "EKFStateVariance",
   "object_id": 515081700,
+  "size": 4,
   "unpackstr": "<f(P)",
   "fields": [
     {

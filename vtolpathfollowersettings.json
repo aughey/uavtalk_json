@@ -1,6 +1,7 @@
 {
   "name": "VtolPathFollowerSettings",
   "object_id": 935366914,
+  "size": 74,
   "unpackstr": "<f(HorizontalVelMax)f(VerticalVelMax)f(CourseFeedForward)f(HorizontalPosP)f(VerticalPosP)f(HorizontalVelPID)f(VerticalVelPID)f(ThrustLimits)f(VelocityFeedforward)f(FlyawayEmergencyFallbackTriggerTime)f(EmergencyFallbackAttitude)f(EmergencyFallbackYawRate)f(MaxRollPitch)f(BrakeRate)f(BrakeMaxPitch)f(BrakeHorizontalVelPID)f(BrakeVelocityFeedforward)H(UpdatePeriod)B(TreatCustomCraftAs)B(ThrustControl)B(YawControl)B(FlyawayEmergencyFallback)",
   "fields": [
     {

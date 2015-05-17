@@ -1,6 +1,7 @@
 {
   "name": "MixerStatus",
   "object_id": 894177088,
+  "size": 48,
   "unpackstr": "<f(Mixer1)f(Mixer2)f(Mixer3)f(Mixer4)f(Mixer5)f(Mixer6)f(Mixer7)f(Mixer8)f(Mixer9)f(Mixer10)f(Mixer11)f(Mixer12)",
   "fields": [
     {

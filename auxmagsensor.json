@@ -1,6 +1,7 @@
 {
   "name": "AuxMagSensor",
   "object_id": 162814370,
+  "size": 13,
   "unpackstr": "<f(x)f(y)f(z)B(Status)",
   "fields": [
     {

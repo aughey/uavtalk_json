@@ -1,6 +1,7 @@
 {
   "name": "FlightPlanSettings",
   "object_id": -1830158474,
+  "size": 4,
   "unpackstr": "<f(Test)",
   "fields": [
     {

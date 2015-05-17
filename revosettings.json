@@ -1,6 +1,7 @@
 {
   "name": "RevoSettings",
   "object_id": -1000936550,
+  "size": 21,
   "unpackstr": "<f(BaroGPSOffsetCorrectionAlpha)f(MagnetometerMaxDeviation)f(BaroTempCorrectionPolynomial)f(BaroTempCorrectionExtent)f(VelocityPostProcessingLowPassAlpha)B(FusionAlgorithm)",
   "fields": [
     {

@@ -1,6 +1,7 @@
 {
   "name": "ManualControlCommand",
   "object_id": 370814104,
+  "size": 28,
   "unpackstr": "<f(Throttle)f(Roll)f(Pitch)f(Yaw)f(Collective)f(Thrust)H(Channel)B(Connected)B(FlightModeSwitchPosition)",
   "fields": [
     {

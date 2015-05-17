@@ -1,6 +1,7 @@
 {
   "name": "StabilizationSettingsBank2",
   "object_id": 1894339482,
+  "size": 49,
   "unpackstr": "<f(ManualRate)f(MaximumRate)f(RollRatePID)f(PitchRatePID)f(YawRatePID)f(RollPI)f(PitchPI)f(YawPI)f(AcroInsanityFactor)f(ThrustPIDScaleCurve)B(RollMax)B(PitchMax)B(YawMax)b(StickExpo)B(EnablePiroComp)B(EnableThrustPIDScaling)B(ThrustPIDScaleSource)B(ThrustPIDScaleTarget)B(ThrustPIDScaleAxes)",
   "fields": [
     {

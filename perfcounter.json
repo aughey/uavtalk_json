@@ -1,6 +1,7 @@
 {
   "name": "PerfCounter",
   "object_id": 1764736890,
+  "size": 8,
   "unpackstr": "<I(Id)i(Counter)",
   "fields": [
     {

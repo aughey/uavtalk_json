@@ -1,6 +1,7 @@
 {
   "name": "FlightBatteryState",
   "object_id": 647373650,
+  "size": 30,
   "unpackstr": "<f(Voltage)f(Current)f(BoardSupplyVoltage)f(PeakCurrent)f(AvgCurrent)f(ConsumedEnergy)f(EstimatedFlightTime)B(NbCells)B(NbCellsAutodetected)",
   "fields": [
     {

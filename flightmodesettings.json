@@ -1,6 +1,7 @@
 {
   "name": "FlightModeSettings",
   "object_id": -1134894724,
+  "size": 31,
   "unpackstr": "<f(ReturnToBaseAltitudeOffset)f(LandingVelocity)f(PositionHoldOffset)f(VarioControlLowPassAlpha)H(ArmedTimeout)H(ArmingSequenceTime)H(DisarmingSequenceTime)B(Arming)B(Stabilization1Settings)B(Stabilization2Settings)B(Stabilization3Settings)B(Stabilization4Settings)B(Stabilization5Settings)B(Stabilization6Settings)B(FlightModePosition)B(DisableSanityChecks)",
   "fields": [
     {

@@ -1,6 +1,7 @@
 {
   "name": "FixedWingPathFollowerSettings",
   "object_id": 950897418,
+  "size": 68,
   "unpackstr": "<f(HorizontalVelMax)f(HorizontalVelMin)f(VerticalVelMax)f(CourseFeedForward)f(ReverseCourseOverlap)f(HorizontalPosP)f(VerticalPosP)f(CoursePI)f(SpeedPI)f(VerticalToPitchCrossFeed)f(AirspeedToPowerCrossFeed)f(PowerPI)f(RollLimit)f(PitchLimit)f(ThrustLimit)f(Safetymargins)i(UpdatePeriod)",
   "fields": [
     {

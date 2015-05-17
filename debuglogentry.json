@@ -1,6 +1,7 @@
 {
   "name": "DebugLogEntry",
   "object_id": 591191232,
+  "size": 18,
   "unpackstr": "<I(FlightTime)I(ObjectID)H(Flight)H(Entry)H(InstanceID)H(Size)B(Type)B(Data)",
   "fields": [
     {

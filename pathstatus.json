@@ -1,6 +1,7 @@
 {
   "name": "PathStatus",
   "object_id": 1707110064,
+  "size": 39,
   "unpackstr": "<f(fractional_progress)f(error)f(path_direction_north)f(path_direction_east)f(path_direction_down)f(correction_direction_north)f(correction_direction_east)f(correction_direction_down)f(path_time)h(UID)B(Status)",
   "fields": [
     {

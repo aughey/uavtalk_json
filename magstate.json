@@ -1,6 +1,7 @@
 {
   "name": "MagState",
   "object_id": -1610700276,
+  "size": 13,
   "unpackstr": "<f(x)f(y)f(z)B(Source)",
   "fields": [
     {

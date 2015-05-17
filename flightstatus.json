@@ -1,6 +1,7 @@
 {
   "name": "FlightStatus",
   "object_id": -1971262894,
+  "size": 6,
   "unpackstr": "<B(Armed)B(FlightMode)B(FlightModeAssist)B(AssistedControlState)B(AssistedThrottleState)B(ControlChain)",
   "fields": [
     {

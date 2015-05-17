@@ -1,6 +1,7 @@
 {
   "name": "GroundTruth",
   "object_id": -243737432,
+  "size": 36,
   "unpackstr": "<f(AccelerationXYZ)f(PositionNED)f(VelocityNED)f(RPY)f(AngularRates)f(TrueAirspeed)f(CalibratedAirspeed)f(AngleOfAttack)f(AngleOfSlip)",
   "fields": [
     {

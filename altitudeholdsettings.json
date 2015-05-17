@@ -1,6 +1,7 @@
 {
   "name": "AltitudeHoldSettings",
   "object_id": -241238996,
+  "size": 14,
   "unpackstr": "<f(AltitudePI)f(VelocityPI)f(ThrustRate)B(CutThrustWhenZero)B(ThrustExp)",
   "fields": [
     {

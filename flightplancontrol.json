@@ -1,6 +1,7 @@
 {
   "name": "FlightPlanControl",
   "object_id": 1407447424,
+  "size": 1,
   "unpackstr": "<B(Command)",
   "fields": [
     {

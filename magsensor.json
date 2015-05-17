@@ -1,6 +1,7 @@
 {
   "name": "MagSensor",
   "object_id": 1893389398,
+  "size": 16,
   "unpackstr": "<f(x)f(y)f(z)f(temperature)",
   "fields": [
     {

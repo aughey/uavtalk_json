@@ -1,6 +1,7 @@
 {
   "name": "RateDesired",
   "object_id": 910324286,
+  "size": 16,
   "unpackstr": "<f(Roll)f(Pitch)f(Yaw)f(Thrust)",
   "fields": [
     {

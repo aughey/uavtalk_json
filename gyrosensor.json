@@ -1,6 +1,7 @@
 {
   "name": "GyroSensor",
   "object_id": -1506377530,
+  "size": 16,
   "unpackstr": "<f(x)f(y)f(z)f(temperature)",
   "fields": [
     {

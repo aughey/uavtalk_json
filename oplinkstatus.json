@@ -1,6 +1,7 @@
 {
   "name": "OPLinkStatus",
   "object_id": -1314304480,
+  "size": 38,
   "unpackstr": "<I(DeviceID)I(PairIDs)H(BoardRevision)H(HeapRemaining)H(UAVTalkErrors)H(TXRate)H(RXRate)H(TXSeq)H(RXSeq)B(Description)B(CPUSerial)B(BoardType)B(RxGood)B(RxCorrected)B(RxErrors)B(RxMissed)B(RxFailure)B(TxDropped)B(TxFailure)B(Resets)B(Timeouts)b(RSSI)B(LinkQuality)B(LinkState)b(PairSignalStrengths)",
   "fields": [
     {

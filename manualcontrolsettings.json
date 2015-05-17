@@ -1,6 +1,7 @@
 {
   "name": "ManualControlSettings",
   "object_id": 679485200,
+  "size": 24,
   "unpackstr": "<f(Deadband)f(DeadbandAssistedControl)f(FailsafeChannel)h(ChannelMin)h(ChannelNeutral)h(ChannelMax)H(ResponseTime)B(ChannelGroups)B(ChannelNumber)B(FlightModeNumber)b(FailsafeFlightModeSwitchPosition)",
   "fields": [
     {

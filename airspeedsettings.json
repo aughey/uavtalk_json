@@ -1,6 +1,7 @@
 {
   "name": "AirspeedSettings",
   "object_id": 1777642874,
+  "size": 16,
   "unpackstr": "<f(Scale)f(IMUBasedEstimationLowPassPeriod1)f(IMUBasedEstimationLowPassPeriod2)H(ZeroPoint)B(SamplePeriod)B(AirspeedSensorType)",
   "fields": [
     {

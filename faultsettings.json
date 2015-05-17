@@ -1,6 +1,7 @@
 {
   "name": "FaultSettings",
   "object_id": 662223420,
+  "size": 1,
   "unpackstr": "<B(ActivateFault)",
   "fields": [
     {
